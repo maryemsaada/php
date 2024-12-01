@@ -1,0 +1,26 @@
+table, th, td {
+    border: 0px solid rgb(205, 33, 196);
+    border-collapse: collapse;
+    }
+.app-table    th, .app-table td {
+    font-family: Arial, sans-serif;
+    padding: 15px;
+    text-align: center;
+    }
+    h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    color: rgb(234, 47, 147);
+    }
+    .card-body{
+        width: 80%;
+        margin: 20px auto;
+    }
+    
+    .app-table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    .app-table th {
+        background-color: #000000;
+    }
